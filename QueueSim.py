@@ -160,7 +160,7 @@ Edited on Feb 11, 2013
 
 __version__    = '1.0.0'
 __author__     = 'Aykut Bulut, Ted Ralphs (ayb211@lehigh.edu,ted@lehigh.edu)'
-__license__    = 'BSD'
+__license__    = 'MIT'
 __maintainer__ = 'Aykut Bulut'
 __email__      = 'ayb211@lehigh.edu'
 __title__      = 'M/M/s queueing system'
